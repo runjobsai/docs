@@ -6,8 +6,6 @@ Official documentation resources for RunJobs.
 
 - [Product Docs](./docs.md)
 - [Developer API](./developers.md)
-- [Live Docs](https://www.runjobs.ai/docs)
-- [Live Developers](https://www.runjobs.ai/developers)
 
 ---
 
